@@ -3,6 +3,14 @@
 <p align="center"><em>a realm of code, chaos,home of the mysterious <strong>ZeddZoul</strong> Tread carefully. and colossal anime energy.</em></p>
 <p align="center"><em>Tread carefully.</em></p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Alchemist-blueviolet" />
+  <img src="https://img.shields.io/badge/Status-Leveling_Up-success" />
+  <img src="https://img.shields.io/badge/Stack-Full--Stack-informational" />
+  <img src="https://img.shields.io/badge/Loves-Anime_&_Light_Novels-red" />
+  <img src="https://img.shields.io/badge/Music-Eclectic-purple" />
+</p>
+
 
 * 🌍 Full-stack developer with a flair for crafting seamless user experiences.  
 * 🛠️ Passionate about building scalable, efficient applications worthy of the New World.  
